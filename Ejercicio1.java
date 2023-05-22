@@ -8,6 +8,6 @@ public class Ejercicio1{
             System.out.println("Es par ");
         }else{
             System.out.println("Impar");
-        }
-    }
+        }
+    }
 }
